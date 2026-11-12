@@ -6,6 +6,8 @@
 
 I build lightweight, easy Windows tools for gamers and content creators.
 
+[![ادعمني · Support me](https://img.shields.io/badge/%D8%A7%D8%AF%D8%B9%D9%85%D9%86%D9%8A%20%C2%B7%20Support%20me-FF6B8B?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://creators.sa/nsun7779)
+
 </div>
 
 ---
